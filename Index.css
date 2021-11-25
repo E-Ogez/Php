@@ -1,0 +1,27 @@
+p.red {
+  background-color: darkred;
+  color: red;
+}
+
+p.blue {
+  background-color: darkblue;
+  color: cyan;
+}
+
+.red {
+  color: red;
+}
+
+span.red {
+  color: red;
+}
+
+.purple {
+  color: purple;
+}
+
+a {
+  display: block;
+  margin-bottom: 0.5em;
+}
+
